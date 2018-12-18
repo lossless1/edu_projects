@@ -1,0 +1,24 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "formidable": "^1.2.1",
+    "nodemailer": "^4.6.8"
+  },
+  "dependencies": {
+    "@mysql/xdevapi": "^8.0.12",
+    "mime": "^2.3.1",
+    "mime-types": "^2.1.20",
+    "mongodb": "^3.1.6",
+    "mysql": "^2.16.0",
+    "optimist": "^0.6.1",
+    "winston": "^3.1.0"
+  }
+}
